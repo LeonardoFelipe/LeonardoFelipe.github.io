@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1510223356,
+	"version": 1512643637,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -9,14 +9,13 @@
 		"images/playbutton-sheet0.png",
 		"images/bgjogo-sheet0.png",
 		"images/limite-sheet0.png",
-		"images/prediosistema1-sheet0.png",
-		"images/playersbuild-sheet0.png",
-		"images/playersbuild-sheet1.png",
-		"images/playerschap-sheet0.png",
-		"images/playerschap-sheet1.png",
-		"images/playerschap-sheet2.png",
+		"images/predio_sis-sheet0.png",
+		"images/predio_sis-sheet1.png",
+		"images/predio_jog-sheet0.png",
+		"images/predio_jog-sheet1.png",
+		"images/carta_jog-sheet0.png",
+		"images/carta_jog-sheet1.png",
 		"images/cardchap-sheet0.png",
-		"images/cardbuild-sheet0.png",
 		"images/swipe-sheet0.png",
 		"images/coin_gold2-sheet0.png",
 		"images/sensorpersona-sheet0.png",
@@ -28,9 +27,8 @@
 		"images/backgroundmenu-sheet0.png",
 		"images/buttonwinner-sheet0.png",
 		"images/buttoninfo-sheet0.png",
-		"images/playersystem-sheet0.png",
-		"images/playersystem-sheet1.png",
-		"images/playersystem-sheet2.png",
+		"images/carta_sis-sheet0.png",
+		"images/carta_sis-sheet1.png",
 		"images/lifesstatus-sheet0.png",
 		"images/supermarketbackground-sheet0.png",
 		"images/telashop-sheet0.png",
@@ -42,6 +40,9 @@
 		"images/teladerrota-sheet0.png",
 		"images/backderrota-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/telacreditos-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
 		"media/espada.m4a",
 		"media/espada.ogg",
 		"media/fundo jogo.m4a",
@@ -53,6 +54,7 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"pathfind.js"
 	]
 }
