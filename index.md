@@ -23,8 +23,3 @@ layout: default
 
 [Jogo 4: Cuidando Da Sua Boca](https://wesleylandia.github.io/CuidedasuaBoca/)  
 ![boca](https://github.com/LeonardoFelipe/viking/blob/master/boca.png?raw=true)  
-
-* * *
-**bold**  
-_italic_  
-~~strikethrough~~
