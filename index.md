@@ -8,7 +8,7 @@ layout: default
 - 17 anos  
 - Aluno de Programação de jogos digitais  
 - Email: leofbarreto2014@gmail.com  
-- Instagram: @_leonardofb
+- Instagram: @_leonardofb  
 ![leo](https://github.com/LeonardoFelipe/Leo/blob/master/leo.jpg?raw=true)  
 * * *
 # Games
