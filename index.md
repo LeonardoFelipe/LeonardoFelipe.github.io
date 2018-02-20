@@ -11,7 +11,7 @@ layout: default
 - Instagram: @_leonardofb  
 ![leo](https://github.com/LeonardoFelipe/Leo/blob/master/leo.jpg?raw=true)  
 * * *  
-# Games
+# Games  
 [Jogo 1: Vikings](https://tanhuayu.github.io/Viking/) 
 ![viking](https://github.com/LeonardoFelipe/viking/blob/master/viking.png?raw=true)  
 
