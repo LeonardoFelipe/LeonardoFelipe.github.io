@@ -10,7 +10,9 @@ layout: default
 - Email: leofbarreto2014@gmail.com  
 - Instagram: @_leonardofb  
 ![leo](https://github.com/LeonardoFelipe/Leo/blob/master/leo.jpg?raw=true)  
+
 * * *  
+
 # Games  
 [Jogo 1: Vikings](https://tanhuayu.github.io/Viking/) 
 ![viking](https://github.com/LeonardoFelipe/viking/blob/master/viking.png?raw=true)  
@@ -23,6 +25,8 @@ layout: default
 
 [Jogo 4: Cuidando Da Sua Boca](https://wesleylandia.github.io/CuidedasuaBoca/)  
 ![boca](https://github.com/LeonardoFelipe/viking/blob/master/boca.png?raw=true)  
+
 * * *
+
 # Influence Map
 ![map](https://github.com/LeonardoFelipe/viking/blob/master/Map%20influence%20(1).jpg?raw=true)  
