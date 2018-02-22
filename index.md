@@ -23,3 +23,5 @@ layout: default
 
 [Jogo 4: Cuidando Da Sua Boca](https://wesleylandia.github.io/CuidedasuaBoca/)  
 ![boca](https://github.com/LeonardoFelipe/viking/blob/master/boca.png?raw=true)  
+# Influence Map
+![map](https://github.com/LeonardoFelipe/viking/blob/master/Map%20influence%20(1).jpg?raw=true)  
