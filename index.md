@@ -30,3 +30,10 @@ layout: default
 
 # Influence Map
 ![map](https://github.com/LeonardoFelipe/viking/blob/master/Map%20influence%20(1).jpg?raw=true)  
+
+* * *  
+
+# Eventos  
+
+- Secitex 2015
+- Secitex 2016
